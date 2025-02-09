@@ -66,21 +66,27 @@ Primeiramente realizei uma pesquisa para entender quais são os principais KPIs 
 
 ### Design
 Desenvolvi um esboço para estipular os visuais e quais seriam os dados necessários para buscar no dataset. Constituiu-se de 3 listas representando os objetivos e cartões representando os tipos de visuais, contendo as medidas que seriam necessárias para o visual.
+
 ![Design](assets/images/TrelloPlanning.jpg)
 
+
 Montei um modelo de como estruturar as páginas do relatório, contendo alguns dos visuais que melhor descreveriam as informações que precisaria demonstrar.
+
 ![Design](assets/images/DashPlan1.jpg)
 
 ![Design](assets/images/DashPlan2.jpg)
 
 ![Design](assets/images/DashPlan3.jpg)
 
+
 Modelei a imagem de fundo do relatório, para deixar definido os espaçamentos, títulos, subtítulos e páginas que receberiam os visuais.
+
 ![Design](assets/images/Panel1.jpg)
 
 ![Design](assets/images/Panel2.jpg)
 
 ![Design](assets/images/Panel3.jpg)
+
 
 ### Análise
 
